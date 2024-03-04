@@ -1,0 +1,5 @@
+Repetition [1] : [0.1900]
+Repetition [2] : [0.1969]
+Repetition [3] : [0.1017]
+Repetition [4] : [0.2018]
+Repetition [5] : [0.2029]

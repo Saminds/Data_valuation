@@ -1,0 +1,5 @@
+Repetition [1] : [0.8296]
+Repetition [2] : [0.8039]
+Repetition [3] : [0.7459]
+Repetition [4] : [0.7870]
+Repetition [5] : [0.8201]
